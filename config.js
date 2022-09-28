@@ -31,7 +31,7 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="ʜɪ ꜱᴜᴅᴅᴀ & ᴘᴜʙʙᴀ ᴛᴇᴀᴍ"
                      
 global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
 
