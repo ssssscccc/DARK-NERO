@@ -36,14 +36,14 @@ global.alivemsg ="ʜɪ ꜱᴜᴅᴅᴀ & ᴘᴜʙʙᴀ ᴛᴇᴀᴍ"
 global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
-global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
-global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.ownername = " ᴋɪɴɢ ꜱᴜᴅᴇᴇʀᴀ " //ur owner name
+global.owner = ['94724749864','']
+global.premium = ['94724749864','94724749864']
+global.botname = '💛ᴋɪɴɢ ꜱᴜᴅᴇᴇʀᴀ ʙᴏᴛ💛'
+global.ownername = 'ꜱᴜᴅᴇᴇʀᴀ'
+global.group1 = 'https://chat.whatsapp.com/F70dDJFzw579hN9ZYYJrb5'
+global.group2 = 'https://chat.whatsapp.com/F70dDJFzw579hN9ZYYJrb5'
+global.packname = '👤ᴋɪɴɢ ꜱᴜᴅᴇᴇʀᴀ👤'
 global.ytchannel = 'https://youtu.be/B1ri-AFU5hU'
 global.monayawal = '100000'
 global.darahawal = '100'
